@@ -18,8 +18,8 @@
 ## Install
 
 ```bash
-git clone https://github.com/oprt-tish/ShellX
-cd ShellX
+git clone https://github.com/oprt-tish/arm64-ShellX
+cd arm64-ShellX
 ./install.sh
 ```
 ---
